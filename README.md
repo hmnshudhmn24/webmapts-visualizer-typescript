@@ -10,7 +10,6 @@
 - 🧾 Type-safe crawling and rendering
 - ⚡ Real-time updates through API
 
----
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +17,6 @@
 - **Server**: Node.js, Puppeteer, Express
 - **Export**: JSON/XML Sitemap
 
----
 
 ## 🚀 Getting Started
 
@@ -45,7 +43,6 @@ npm run server
 npm run client
 ```
 
----
 
 ## 📂 Project Structure
 
@@ -63,21 +60,8 @@ webmapts-visualizer-typescript/
 └── README.md
 ```
 
----
 
 ## 📤 Export Formats
 
 - `/export/json` — sitemap as JSON
 - `/export/xml` — sitemap as XML (Google-compatible)
-
----
-
-## 📸 Screenshot
-
-![demo](https://dummyimage.com/800x400/000/fff&text=WebMapTS+Demo)
-
----
-
-## 📄 License
-
-MIT License
